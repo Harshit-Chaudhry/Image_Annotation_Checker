@@ -97,5 +97,3 @@ For each image:
    - **`r`** to reject
 
 The window closes automatically and moves to the next image.
-
----
